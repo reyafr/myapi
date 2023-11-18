@@ -1,4 +1,4 @@
-module otolase
+module github.com/reyafr/myapi
 
 go 1.21.4
 

@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"D:\Rey\Belajar\myapi\controllers" // Update import path to reference local package
-)
+	"github.com/reyafr/myapi/controllers" 
+	) 
 
 func main() {
 	r := gin.Default()

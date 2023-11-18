@@ -3,7 +3,7 @@ package controllers
 import (
 	"github.com/gin-gonic/gin"
 	"net/http"
-	"myapi/models"
+	"github.com/reyafr/myapi/models"
 )
 
 // Handlers for user routes
